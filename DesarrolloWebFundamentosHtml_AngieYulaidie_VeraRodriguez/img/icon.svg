@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter id="svg_9_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_19_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="2.1"/>
+  </filter>
+  <filter id="svg_17_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="1.6"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="Cursive" font-size="216" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.531773 0 0 1.13355 35.8235 -59.0961)" x="134.779741" xml:space="preserve" y="387.96839">A</text>
+  <path d="m105.5,46.444865c-20,-3.522164 111,122.101693 104.5,139.125487c-6.5,17.023794 -65.5,174.347129 -49.5,190.783895c16,16.436767 174,23.481095 179.5,-4.109191c5.5,-27.590287 -59.5,-170.824965 -52,-187.848759c7.5,-17.023794 112.5,-136.777377 102.5,-143.821706c-10,-7.044328 -133,62.224901 -143.5,60.463819c-10.5,-1.761082 -121.5,-51.071381 -141.5,-54.593545z" fill="#ff0000" id="svg_5" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <path d="m364.315247,291.985131l37.747791,0l5.222978,-12.281578l8.546661,23.642022l9.496293,-23.949066l8.309284,23.642022l9.021483,-23.334979l9.021475,23.488498l4.985555,-11.513964l37.985193,0m-133.48611,-1.066844l3.137712,0l0,2.595112l-3.137712,0l0,-2.595112zm133.489552,-0.176538l3.137712,0l0,2.595112l-3.137712,0l0,-2.595112z" fill="#ff0000" id="svg_6" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(115.721 429.479 291.371)"/>
+  <path d="m291.849982,289.283178l41.48683,0l5.74033,-13.911874l9.393235,26.780341l10.436931,-27.128142l9.132345,26.780341l9.915089,-26.43254l9.915081,26.606437l5.47939,-13.042365l41.747747,0m-146.708332,-1.20846l3.448512,0l0,2.939596l-3.448512,0l0,-2.939596zm146.712115,-0.199973l3.448512,0l0,2.939596l-3.448512,0l0,-2.939596z" fill="#ff0000" id="svg_7" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(61.1076 363.469 288.588)"/>
+  <ellipse cx="545.5" cy="188.5" fill="none" filter="url(#svg_9_blur)" id="svg_9" rx="48" ry="84" stroke="#2b1f1f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="null"/>
+  <path d="m494.5,196.5c0,0 8,88 -10,166c-18,78 -37,36 -37.5,35.5" fill="none" filter="url(#svg_17_blur)" id="svg_17" stroke="#2b1f1f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <path d="m496.5,204.5c0,0 76,277 104,209" fill="none" filter="url(#svg_19_blur)" id="svg_19" stroke="#2b1f1f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+ </g>
+</svg>
